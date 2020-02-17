@@ -1,1 +1,18 @@
-
+h1, footer{
+    text-align: center;
+}
+.tips{
+    padding-right: 1em;
+    float:left;
+}
+.rates{
+    position: relative;
+    left: -450px;
+    float:right;
+}
+.rates2{
+    position: relative;
+    left: -450px;
+    padding-right: 0.5em;
+    float:right;
+}
