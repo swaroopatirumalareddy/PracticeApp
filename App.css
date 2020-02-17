@@ -16,3 +16,8 @@ h1, footer{
     padding-right: 0.6em;
     float:right;
 }
+p
+{
+    text-align: center;
+    background-color: slategray;
+}
